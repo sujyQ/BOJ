@@ -1,7 +1,6 @@
 
 word = input()
 
-print(word)
 dec = 0
 
 for _, alpha in enumerate(word) :
