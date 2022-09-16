@@ -1,4 +1,3 @@
-import copy
 N = int(input())
 board = []
 for _ in range(N):
